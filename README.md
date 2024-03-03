@@ -21,7 +21,7 @@
 
 **software architecture**
 
-![alt](page2.jpg)
+![alt](images/page2.jpg)
 
 **Back-end tasks**
 
